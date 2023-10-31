@@ -1,4 +1,4 @@
-# Potatoeyo-s-Calculator-2023-v0.1
+# Potatoeyo-s-Calculator-2023-v0.2
 My own custom calculator. Its currently Work In Progress and its made in TurboWarp (better Scratch editor)
 No tedious extra extracting required (unlike my fan-made WHG game which requires four extra extractions after extracting the full ZIP)
 
