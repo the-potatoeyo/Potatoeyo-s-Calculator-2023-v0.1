@@ -6,3 +6,4 @@ v0.0 - Created October 12, 2023 (19 days before release to GitHub)
 
 v0.1 - Release to GitHub
 Added two CONVERSION buttons "Fraction to Percent" and "Percent of Number"
+Added "help" button (shows all functions for each other button)
